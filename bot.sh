@@ -1,6 +1,6 @@
 clear
 echo "masukan nomor Owner menggunakan kode negara"
-echo "contoh: 628979059392"
+echo "contoh: 6285876596372"
 read nomor
 echo ""
 echo "masukan passwordmu"
